@@ -9,7 +9,7 @@ everyone can contribute without errors.
 
 ## ✅ 1. Clone the Repository
 
-    git clone https://github.com/ameni/events-project.git
+    git clone https://github.com/ameniis/event-project.git
     cd events-project
 
 
